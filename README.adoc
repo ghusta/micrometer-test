@@ -6,6 +6,8 @@
 :toc: auto
 :toclevels: 3
 
+image:https://travis-ci.org/ghusta/micrometer-test.svg?branch=master["Build Status", link="https://travis-ci.org/ghusta/micrometer-test"]
+
 == Overview
 
 Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in.
